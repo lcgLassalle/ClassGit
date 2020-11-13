@@ -1,3 +1,3 @@
 #Title
 
-x = local
+x = both
